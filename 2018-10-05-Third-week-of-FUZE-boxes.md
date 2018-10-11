@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I'm not sure</td>
+    <td>I need to work faster on the FUZE coding book.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
